@@ -3,7 +3,6 @@ import React from "react";
 export const ContactPicker = (props) => {
 
 const contacts = props.contacts;
-console.log(contacts);
 
   return (
     <div>
