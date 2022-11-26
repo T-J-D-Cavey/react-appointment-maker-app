@@ -1,5 +1,7 @@
 # React appointment-maker app #
 
+https://cavey-appointment-maker-app.netlify.app/contacts
+
 This app is a challenge project by Codecademy.
 
 It's a react app, that allows the user to create a list of contacts, and create appointments with selected contacts. 
@@ -19,4 +21,4 @@ It's one of the final steps in the React course, to reinforce the learnings from
 
 ## Is this project available online? ##
 
-This will be available via a Netlify domain. Link tbc
+This is now available via a Netlify domain: https://cavey-appointment-maker-app.netlify.app/contacts
